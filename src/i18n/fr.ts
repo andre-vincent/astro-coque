@@ -16,7 +16,7 @@
 // Note: values are deliberately *not* `as const` — widening them to `string`
 // is what lets other locales satisfy `UIStrings`.
 
-export const en = {
+export const fr = {
   // Header, footer, and other chrome
   'nav.home': 'Accueil',
   'nav.about': 'À propos',
