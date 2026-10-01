@@ -1,14 +1,14 @@
 // Site-wide settings. Edit this file to rebrand the theme — every page,
 // the RSS feed, and Open Graph tags read from here.
 
-import type { UIKey } from './i18n/en';
+import type { UIKey } from './i18n/fr';
 
 export const SITE = {
   /** BCP 47 language tag. Picks the UI dictionary in `src/i18n/`, and sets
    *  `<html lang>`, date formatting, and the RSS feed language. Dictionaries
    *  ship for `en` and `ja`; regional variants like `en-GB` reuse the base
    *  language's strings while keeping their own date format. */
-  locale: 'en',
+  locale: 'fr_CA',
   /** Site name — used in the header brand, <title>, and og:site_name. */
   title: 'Astro Coque',
   /** Default meta description for pages that don't set their own. */
@@ -88,7 +88,7 @@ export const GISCUS: GiscusConfig = {
   strict: true,
   reactionsEnabled: true,
   inputPosition: 'bottom',
-  lang: 'en',
+  lang: 'fr',
   // Other options include `preferred_color_scheme`, `transparent_dark`,
   // `noborder_light`, `cobalt`, or a URL to your own theme CSS.
   lightTheme: 'light',
