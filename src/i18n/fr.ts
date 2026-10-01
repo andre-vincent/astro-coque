@@ -1,4 +1,4 @@
-// English UI dictionary — the reference translation.
+// French UI dictionary ---
 //
 // **Scope: UI chrome only.** Navigation, pagination, section labels, button and
 // link labels, aria labels, generated strings, and the theme-owned 404 page.
