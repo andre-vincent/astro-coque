@@ -8,7 +8,7 @@ A calm neutral base, a single configurable accent color, generous whitespace, an
 
 <br />
 
-[![Live demo](https://img.shields.io/badge/Live_demo-↗-1a1a1a?style=for-the-badge)](https://kpab.github.io/astro-keel/)
+[![Live demo](https://img.shields.io/badge/Live_demo-↗-1a1a1a?style=for-the-badge)](https://andre-vincent.github.io/astro-coque/)
 
 <br />
 
