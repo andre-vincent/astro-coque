@@ -1,22 +1,11 @@
-// French UI dictionary ---
+// French  UI dictionary — shipped as a reference translation alongside `en`.
+// Copy this file to add your own locale; `UIStrings` makes a missing key a
+// type error, so nothing can silently fall back to English.
 //
-// **Scope: UI chrome only.** Navigation, pagination, section labels, button and
-// link labels, aria labels, generated strings, and the theme-owned 404 page.
-// Placeholder prose on the home and about pages is *not* here: it lives in the
-// `.astro` files, where you would edit it anyway. Keeping the split means a new
-// locale is ~60 short strings rather than a rewrite of the demo copy.
-//
-// This file also defines the *shape* every other dictionary must match, so add
-// a key here first, then to each locale under `src/i18n/`. Keys are flat and
-// dotted; `{name}` placeholders are filled in by `t()`.
-//
-// Two values carry inline `<code>` markup and are rendered with `set:html`.
-// They are theme-authored, never user input.
-//
-// Note: values are deliberately *not* `as const` — widening them to `string`
-// is what lets other locales satisfy `UIStrings`.
+// Scope is UI chrome only — see the note at the top of `en.ts`.
+import type { UIStrings } from './en';
 
-export const fr = {
+export const fr: UIStrings = {
   // Header, footer, and other chrome
   'nav.home': 'Accueil',
   'nav.about': 'À propos',
