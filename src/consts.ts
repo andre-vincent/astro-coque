@@ -1,7 +1,7 @@
 // Site-wide settings. Edit this file to rebrand the theme — every page,
 // the RSS feed, and Open Graph tags read from here.
 
-import type { UIKey } from './i18n/en';
+import type { UIKey } from './i18n/fr';
 
 export const SITE = {
   /** BCP 47 language tag. Picks the UI dictionary in `src/i18n/`, and sets
