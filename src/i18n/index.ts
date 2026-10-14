@@ -7,6 +7,7 @@
 import { SITE, type NavItem } from '../consts';
 import { en, type UIKey, type UIStrings } from './en';
 import { ja } from './ja';
+import { ja } from './fr';
 
 export type { UIKey, UIStrings };
 
