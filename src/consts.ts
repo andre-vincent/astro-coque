@@ -38,7 +38,7 @@ export interface SocialLink {
 /** Social profiles rendered as inline SVG icons in the footer.
  *  Add or remove entries here — no template edits needed. */
 export const SOCIAL_LINKS: readonly SocialLink[] = [
-  { label: 'GitHub', href: 'https://github.com/kpab/astro-keel', icon: 'github' },
+  { label: 'GitHub', href: 'https://github.com/andre-vincent/astro-coque', icon: 'github' },
   { label: 'RSS feed', href: '/rss.xml', icon: 'rss' },
 ];
 
