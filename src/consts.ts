@@ -8,20 +8,20 @@ export const SITE = {
    *  `<html lang>`, date formatting, and the RSS feed language. Dictionaries
    *  ship for `en` and `ja`; regional variants like `en-GB` reuse the base
    *  language's strings while keeping their own date format. */
-  locale: 'en',
+  locale: 'fr',
   /** Site name — used in the header brand, <title>, and og:site_name. */
-  title: 'Astro Keel',
+  title: 'Astro Coque',
   /** Default meta description for pages that don't set their own. */
-  description: 'A minimal, neutral, and modern portfolio and blog theme for Astro.',
+  description: 'Un portfolio et un thème de blog minimalistes, neutres et modernes pour Astro.',
   /** Description of the RSS feed at /rss.xml. */
-  rssDescription: 'Notes, essays, and release logs from Astro Keel.',
+  rssDescription: 'Notes, essais et articles d’Astro Keel.',
   /** Default social share image, relative to the site root (see public/). */
   ogImage: '/og.jpg',
   /** Post author, emitted in JSON-LD BlogPosting structured data.
    *  Leave empty ('') to omit the author field. */
-  author: 'Astro Keel',
+  author: 'André 20 100',
   /** Footer credit line. */
-  footerText: 'Built with Astro Keel.',
+  footerText: 'Construit avec Astro Coque.',
 } as const;
 
 /** Icons bundled with the theme — see `src/components/SocialLinks.astro`. */
