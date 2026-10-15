@@ -1,17 +1,17 @@
 ---
-title: 'Content Layer Notes'
-publishDate: 2026-02-03
+title: 'Notes sur la couche de contenu'
+publishDate: 2026-10-15
 tags:
   - astro
   - content
-description: 'Practical notes for keeping Astro content collections predictable.'
+description: 'Remarques pratiques pour garder les collections de contenu Astro prévisibles.'
 draft: false
 ---
 
-## Treat content as data
+## Traiter le contenu comme des données
 
-Typed frontmatter lets templates stay calm. Lists can sort by dates, details can render with shared prose styles, and tags become routes without hand-maintained indexes.
+La « FrontMatter » au début d’un article permet aux modèles de rester calmes. Les listes peuvent être triées par dates, les détails peuvent être rendus avec des styles professionnels partagés et les balises deviennent des routes sans index maintenus à la main.
 
-## Use ids for routes
+## Utiliser les identifiants pour les itinéraires
 
-With the Content Layer API, the entry id is the stable slug for file-backed content. That keeps route generation explicit and avoids depending on a separate field.
+Avec l'API de la couche de contenu, l'identifiant d'entrée est le slug stable pour le contenu soutenu par un fichier. Cela permet de garder la génération d'itinéraire explicite et d'éviter de dépendre d'un champ distinct.
