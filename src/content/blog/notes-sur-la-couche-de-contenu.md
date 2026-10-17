@@ -10,7 +10,7 @@ draft: false
 
 ## Traiter le contenu comme des données
 
-La « FrontMatter » au début d’un article permet aux modèles de rester calmes. Les listes peuvent être triées par dates, les détails peuvent être rendus avec des styles professionnels partagés et les balises deviennent des routes sans index maintenus à la main.
+Le « FrontMatter » au début d’un article permet aux modèles de rester calmes. Les listes peuvent être triées par dates, les détails peuvent être rendus avec des styles professionnels partagés et les balises deviennent des routes sans index maintenus à la main.
 
 ## Utiliser les identifiants pour les itinéraires
 
