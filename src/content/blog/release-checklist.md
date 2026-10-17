@@ -1,17 +1,17 @@
 ---
-title: 'A Small Release Checklist'
+title: 'Une petite liste de contrôle de libération'
 publishDate: 2026-03-18
 tags:
-  - process
-  - release
-description: 'A compact checklist for shipping a portfolio update without drama.'
+  - Processus
+  - Libération
+description: 'Une liste de contrôle compacte pour expédier une mise à jour de portefeuille sans drame.'
 draft: false
 ---
 
-## Before publishing
+## Avant la publication
 
-Check the highest-traffic pages, scan the feed, and make sure the latest project or article has the right date, tags, and description.
+Vérifiez les pages les plus fréquentées, analysez le flux et assurez-vous que le dernier projet ou article a la bonne date, les bonnes balises et la bonne description.
 
-## After publishing
+## Après la publication
 
-Open the public URL, follow the important links, and confirm the page still works with the system color scheme set both ways.
+Ouvrez l'URL publique, suivez les liens importants et confirmez que la page fonctionne toujours avec la palette de couleurs du système définie dans les deux sens.
