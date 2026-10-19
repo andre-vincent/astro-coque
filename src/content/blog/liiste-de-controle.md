@@ -1,5 +1,5 @@
 ---
-title: 'Une petite liste de contrôle de libération'
+title: 'Petite liste de contrôle de publication'
 publishDate: 2026-03-18
 tags:
   - Processus
