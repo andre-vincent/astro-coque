@@ -63,8 +63,8 @@ export const fr: UIStrings = {
   'post.eyebrow': 'Blog',
   'post.readingTime': '{minutes} min à lire',
   'post.tocLabel': 'Sommaire',
-  'post.contentsEyebrow': 'Contents',
-  'post.adjacentLabel': 'Articles adjacent',
+  'post.contentsEyebrow': 'Contenu',
+  'post.adjacentLabel': 'Articles adjacents',
   'post.previous': 'Précédent',
   'post.next': 'Suivant',
   'post.relatedEyebrow': 'Articles connexes',
@@ -109,8 +109,8 @@ export const fr: UIStrings = {
   'notFound.lead':
     'L’adresse a peut-être changé ou n’a jamais existé. Les lignes d’étrave ci-dessous mènent à une eau stable.',
   'notFound.linksLabel': 'Liens de récupération',
-  'notFound.home': 'Retour à l’acceuil',
-  'notFound.blog': 'Lire le B;og',
+  'notFound.home': 'Retour à ’’acceuil',
+  'notFound.blog': 'Lire le blog',
   'notFound.works': 'Parcourir les travaux',
 };
 
